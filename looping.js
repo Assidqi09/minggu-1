@@ -31,7 +31,7 @@ for (let i = 0; i < 101; i++) {
   if (i % 2 == 0){
       console.log("bilangan genap" + " "  + i)
   } else {
-    console.log( "bilangan ganjil " + " " + i)
+    console.log( "bilangan ganjil " + " " + i) 
   }
 }
 
