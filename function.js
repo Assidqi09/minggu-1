@@ -7,7 +7,7 @@ console.log (tampung);
 
 //nomor 2
 function calculateMultiply(numb1,numb2){
-    return 5*6
+    return numb1*numb2
 }
 var numb1 = 5;
 var numb2 = 6;
